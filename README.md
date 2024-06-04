@@ -1,1 +1,1 @@
-# Its a Jack Home page
+# Its a Jack Home page - Developers
